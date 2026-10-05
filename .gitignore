@@ -1,0 +1,10 @@
+﻿*.pem
+user-data.b64
+launch-template-data.json
+launch-template-data-v3.json
+launch-template-data-v4.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
